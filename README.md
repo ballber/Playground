@@ -1,2 +1,2 @@
 # Playground
-xcode 10 playgrounds
+xcode 10 playground
